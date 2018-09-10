@@ -5,7 +5,7 @@
 
 void main()
 {
-	printat(15, 15, "AAAAAA!");
+	printat(15, 15, "BBBBB!");
 	waitAnyKey();
 }
 
